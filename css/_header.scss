@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  padding: 1em;
+
+  position: sticky;
+  top: 0;
+  background: rgb(202, 240, 243);
+  background: linear-gradient(
+    180deg,
+    rgba(202, 240, 243, 1) 52%,
+    rgba(153, 248, 255, 1) 100%
+  );
+  border-bottom: 2px solid #61b5a8;
+}

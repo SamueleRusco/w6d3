@@ -1,0 +1,31 @@
+/*qua tutti import*/
+@import url("https://fonts.googleapis.com/css2?family=Changa&family=Roboto:wght@400;700&display=swap");
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  padding: 1em;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: rgb(202, 240, 243);
+  background: linear-gradient(180deg, rgb(202, 240, 243) 52%, rgb(153, 248, 255) 100%);
+  border-bottom: 2px solid #61b5a8;
+}
+
+#navbar ul {
+  margin: 30px;
+}
+
+ul {
+  display: flex;
+}
+
+.codeFont {
+  font-family: "Changa", sans-serif;
+}
+
+.titolo {
+  font-size: 2em;
+}/*# sourceMappingURL=app.css.map */
